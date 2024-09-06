@@ -1,6 +1,9 @@
 Mais um exercício do curso Spring boot e Angular.js - Wellington de oliveira, dessa vez o objetivo era fazer uma aplicação com Spring Data Jpa com Banco de dados MySql
 
-```markdown
+Claro! Aqui está o trecho que você forneceu em texto:
+
+---
+
 # Locadora API
 
 Uma aplicação de CRUD para uma locadora de filmes, desenvolvida com Spring Boot e Spring Data JPA, usando MySQL como banco de dados.
@@ -39,6 +42,8 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 ```
+
+---
 
 ## Rodando a Aplicação
 
